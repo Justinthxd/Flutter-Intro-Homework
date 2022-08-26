@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244573803552",
+    "project_id": "employee-management-1b250",
+    "storage_bucket": "employee-management-1b250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244573803552:android:775d211c99233ccf9a5845",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_intro_software"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244573803552-7qol1jaks1eg5ltaaesadq5vgi6ffquj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi3XtkR-KjQ3Y54M-w0GLLklRCu_b0onU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244573803552-7qol1jaks1eg5ltaaesadq5vgi6ffquj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
